@@ -1,7 +1,7 @@
 package guru.spring.springmvccrud.services;
 
 
-import guru.spring.springmvccrud.domain.Recipe;
+import guru.spring.springmvccrud.models.Recipe;
 import guru.spring.springmvccrud.repositories.RecipeRepository;
 import org.junit.Before;
 import org.junit.Test;

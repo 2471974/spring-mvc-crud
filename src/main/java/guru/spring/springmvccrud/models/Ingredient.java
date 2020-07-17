@@ -1,4 +1,4 @@
-package guru.spring.springmvccrud.domain;
+package guru.spring.springmvccrud.models;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

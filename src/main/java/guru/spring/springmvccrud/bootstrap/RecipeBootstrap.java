@@ -1,10 +1,10 @@
 package guru.spring.springmvccrud.bootstrap;
 
-import guru.spring.springmvccrud.domain.*;
+import guru.spring.springmvccrud.models.*;
 import guru.spring.springmvccrud.repositories.CategoryRepository;
 import guru.spring.springmvccrud.repositories.RecipeRepository;
 import guru.spring.springmvccrud.repositories.UnitOfMeasureRepository;
-import guru.springframework.domain.*;
+import guru.spring.springmvccrud.models.*;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;

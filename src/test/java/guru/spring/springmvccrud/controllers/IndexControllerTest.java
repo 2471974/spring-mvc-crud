@@ -1,6 +1,6 @@
 package guru.spring.springmvccrud.controllers;
 
-import guru.spring.springmvccrud.domain.Recipe;
+import guru.spring.springmvccrud.models.Recipe;
 import guru.spring.springmvccrud.services.RecipeService;
 import org.junit.Before;
 import org.junit.Test;

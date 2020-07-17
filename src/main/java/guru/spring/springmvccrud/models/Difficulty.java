@@ -1,4 +1,4 @@
-package guru.spring.springmvccrud.domain;
+package guru.spring.springmvccrud.models;
 
 /**
  * Created by jt on 6/13/17.

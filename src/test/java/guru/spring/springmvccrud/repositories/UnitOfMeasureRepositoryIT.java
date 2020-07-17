@@ -1,6 +1,6 @@
 package guru.spring.springmvccrud.repositories;
 
-import guru.spring.springmvccrud.domain.UnitOfMeasure;
+import guru.spring.springmvccrud.models.UnitOfMeasure;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

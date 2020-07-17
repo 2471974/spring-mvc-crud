@@ -1,6 +1,6 @@
 package guru.spring.springmvccrud.repositories;
 
-import guru.spring.springmvccrud.domain.Category;
+import guru.spring.springmvccrud.models.Category;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

@@ -1,6 +1,6 @@
 package guru.spring.springmvccrud.repositories;
 
-import guru.spring.springmvccrud.domain.Recipe;
+import guru.spring.springmvccrud.models.Recipe;
 import org.springframework.data.repository.CrudRepository;
 
 /**

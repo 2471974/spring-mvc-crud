@@ -1,6 +1,6 @@
 package guru.spring.springmvccrud.services;
 
-import guru.spring.springmvccrud.domain.Recipe;
+import guru.spring.springmvccrud.models.Recipe;
 
 import java.util.Set;
 
@@ -10,4 +10,5 @@ import java.util.Set;
 public interface RecipeService {
 
     Set<Recipe> getRecipes();
+    Recipe findById(Long l);
 }

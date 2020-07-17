@@ -1,4 +1,4 @@
-package guru.spring.springmvccrud.domain;
+package guru.spring.springmvccrud.models;
 
 import org.junit.Before;
 import org.junit.Test;
